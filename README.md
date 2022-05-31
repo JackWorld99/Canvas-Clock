@@ -8,4 +8,4 @@
 
 ---
 
-### 👉 [Demo](https://jackworld99.github.io/Clock/clock.html "Show clock.html")
+### 👉 [Demo](https://jackworld99.github.io/HTML5-Canvas-Clock/clock.html "Show clock.html")
